@@ -1,0 +1,37 @@
+package entities;
+
+public class Bank {
+	
+	private String name;
+	private int numaccount;
+	private double saldincial;
+	
+	public Bank(String name, int numaccount, double saldincial) {
+		this.name = name;
+		this.numaccount = numaccount;
+		this.saldincial = saldincial;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getNumaccount() {
+		return numaccount;
+	}
+
+	public void setNumaccount(int numaccount) {
+		this.numaccount = numaccount;
+	}
+
+	public double getSaldincial() {
+		return saldincial;
+	}
+	
+	
+
+}

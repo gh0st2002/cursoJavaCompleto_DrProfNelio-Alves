@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Marci\Desktop\CURSOS\JAVA\Workspace\CAP 13_ENUMERAÇÃO\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1238098318.index
+2740675604.index
+978466222.index

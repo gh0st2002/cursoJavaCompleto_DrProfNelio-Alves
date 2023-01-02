@@ -1,0 +1,17 @@
+package application;
+
+import entities.OrderItem;
+import entities.Product;
+
+public class Main {
+
+	public static void main(String[] args) {
+				
+		Product p = new Product("TV", 1000.0);
+		Product p2 = new Product("Mouse", 40.0);
+		
+		OrderItem o1 = new OrderItem(1, 1000.0, p);
+
+	}
+
+}
